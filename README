@@ -1,0 +1,3 @@
+To install, just copy the jsx file into Ilustrator's Scripts folder, which you can find in the installation folder, under Presets/en_US/.
+
+Then launch Illustrator and you should see "Save Layers to SVG" under File > Scripts. Just run this, pick a destination folder, and Illustrator will take care of the rest. 
